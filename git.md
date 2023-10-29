@@ -35,3 +35,4 @@
 ## Для работы с изображением, необходимо добавить их в файл .gitignore , а в файле с языком разметки Markdown записать слудующую конструкцию:
 
 ![file's name.png](file's name.png)
+![me_wrestling.jpg](me_wrestling.jpg)
