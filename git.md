@@ -31,3 +31,7 @@
 * git branch branch_name - создать новую ветку
 * git checkout branch_name - перейти на нужную ветку
 * git log -graph - дерево коммитов
+
+## Для работы с изображением, необходимо добавить их в файл .gitignore , а в файле с языком разметки Markdown записать слудующую конструкцию:
+
+![file's name.png](file's name.png)
